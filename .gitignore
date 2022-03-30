@@ -1,7 +1,8 @@
-
 .idea
 *.iml
 .txt
 *.xml
 /out
 helloWorld.java
+hello.txt
+ahmet.txt
