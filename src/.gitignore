@@ -1,6 +1,6 @@
-../../.idea
+.idea
 *.iml
-.txt
+hr.txt
 *.xml
 /out
 helloWorld.java
